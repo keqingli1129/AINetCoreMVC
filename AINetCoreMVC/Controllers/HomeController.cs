@@ -13,9 +13,18 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    private readonly ApplicationDbContext _context;
+
+    public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
+    {
+        _logger = logger;
+        _context = context;
+    }
+
     public IActionResult Index()
     {
-        return View();
+        var categories = _context.Categories.Take(10).ToList();
+        return View(categories);
     }
 
     public IActionResult Privacy()

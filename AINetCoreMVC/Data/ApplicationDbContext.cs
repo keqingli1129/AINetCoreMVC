@@ -9,6 +9,6 @@ public class ApplicationDbContext : DbContext
     {
     }
     
-    // Add DbSet properties for your entities here
-    // Example: public DbSet<MyEntity> MyEntities { get; set; }
+    public DbSet<Category> Categories { get; set; }
+    public DbSet<Product> Products { get; set; }
 }

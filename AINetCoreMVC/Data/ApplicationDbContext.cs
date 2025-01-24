@@ -9,6 +9,6 @@ public class ApplicationDbContext : DbContext
     {
     }
     
-    public DbSet<Models.Category> Categories { get; set; }
-    public DbSet<Models.Product> Products { get; set; }
+    public DbSet<AINetCoreMVC.Models.Category> Categories { get; set; }
+    public DbSet<AINetCoreMVC.Models.Product> Products { get; set; }
 }

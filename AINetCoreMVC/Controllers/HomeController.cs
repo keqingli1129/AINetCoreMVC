@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using AINetCoreMVC.Models;
+using AINetCoreMVC.Data;
 
 namespace AINetCoreMVC.Controllers;
 

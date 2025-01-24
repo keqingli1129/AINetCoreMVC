@@ -5,7 +5,7 @@ builder.Services.AddControllersWithViews();
 
 // Add database configuration
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer("Server=BIGHORNDBVMD01;Database=FundRaisers_Dev;Trusted_Connection=True;Encrypt=False;"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

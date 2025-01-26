@@ -1,0 +1,268 @@
+
+# 2025-01-24 10:53:37.876588
++/add ainetcoremvc.sln
+
+# 2025-01-24 10:53:56.500366
++/add ainetcoremvc/*.*
+
+# 2025-01-24 10:54:07.702055
++/add ainetcoremvc/
+
+# 2025-01-24 11:01:05.788641
++change index page "welcome" to "Hello World!"
+
+# 2025-01-24 11:02:27.308940
++n
+
+# 2025-01-24 11:02:51.693960
++/drop wwwroot/
+
+# 2025-01-24 11:03:23.727179
++/drop ainetcoremvc/wwwroot/
+
+# 2025-01-24 11:03:51.046917
++change index page welcome to Hello World!
+
+# 2025-01-24 11:04:54.122293
++/drop ainetcoremvc/wwwroot/lib/
+
+# 2025-01-24 11:06:16.632086
++change ainetcoremvc/views/home/nidex.cshtml welcome to hello world
+
+# 2025-01-24 11:08:42.709781
++/add ainetcoremvc/controllers
+
+# 2025-01-24 11:08:55.986467
++/add ainetcoremvc/odel
+
+# 2025-01-24 11:09:07.147131
++n
+
+# 2025-01-24 11:09:16.969305
++/add ainetcoremvc/model
+
+# 2025-01-24 11:09:20.833635
++n
+
+# 2025-01-24 11:09:28.650743
++/add ainetcoremvc/models
+
+# 2025-01-24 11:09:35.386821
++/add ainetcoremvc/views
+
+# 2025-01-24 11:10:00.445934
++/add AINetCoreMVC\Program.cs
+
+# 2025-01-24 11:10:27.555358
++change Welcome on index page to hello world!
+
+# 2025-01-24 11:10:47.234672
++n
+
+# 2025-01-24 11:19:01.997783
++where is the reference folder?
+
+# 2025-01-24 11:23:39.671749
++.net project normally have a reference folder
+
+# 2025-01-24 11:26:11.311786
++n
+
+# 2025-01-24 13:24:46.094733
++add .net core connectionstring pointing server BIGHORNDBVMD01 and database FundRaisers_Dev
+
+# 2025-01-24 13:26:31.630703
++add the connectionstring to appsettings.json and reference from program.cs
+
+# 2025-01-24 13:28:27.752705
++n
+
+# 2025-01-24 13:31:39.057837
++fix pogram.cs
+
+# 2025-01-24 13:33:37.417150
++n
+
+# 2025-01-24 13:38:11.146009
++update connctionstring using user id=Fundraisers and password=R@1s3rs, not using trsuted connection 
+
+# 2025-01-24 13:38:36.146027
++n
+
+# 2025-01-24 13:42:42.155387
++do not apply pending migrations in development
+
+# 2025-01-24 13:43:00.897996
++n
+
+# 2025-01-24 14:19:56.774222
++update connectionstring to server ADM-204-A-47-O\SQLEXPRESS and trusted connection
+
+# 2025-01-24 14:20:24.712013
++n
+
+# 2025-01-24 14:21:40.862831
++update the database in connection string to northwind
+
+# 2025-01-24 14:21:55.518696
++n
+
+# 2025-01-24 14:22:20.825239
++we use db first, so do not ask for run db migrate anymore
+
+# 2025-01-24 14:23:33.856708
++n
+
+# 2025-01-24 14:24:31.217284
++C:\work\AINetCoreMVC\AINetCoreMVC\Data\ApplicationDbContext.cs(12,18): error CS0246: The type or namespac
++e name 'Category' could not be found
+
+# 2025-01-24 14:25:57.387549
++fix the bug with using statement
+
+# 2025-01-24 14:26:35.992171
++/undo
+
+# 2025-01-24 14:27:39.336358
++remove duplicate constructor in HomeController
+
+# 2025-01-24 14:28:18.347611
++ApplicationDbContext can not be found
+
+# 2025-01-24 14:29:53.673953
++not using Explicitly references
+
+# 2025-01-24 14:31:11.427980
++reference Category etc with using statement
+
+# 2025-01-24 14:58:36.816413
++please generate the remaining data class in the database to models folder
+
+# 2025-01-24 15:40:13.971591
++add individual account authentication using the default connection
+
+# 2025-01-24 15:43:03.674955
++n
+
+# 2025-01-24 15:44:30.756357
++C:\work\AINetCoreMVC\AINetCoreMVC\Program.cs(10,37): error CS0246: The type or namespace name 'IdentityUs 
++er' could not be found
+
+# 2025-01-24 15:46:00.495734
++fi the code in the program.cs
+
+# 2025-01-24 15:46:41.101067
++n
+
+# 2025-01-24 15:48:30.575700
++remove app.maprazorpages
+
+# 2025-01-24 15:52:25.397247
++The entity type 'OrderDetail' requires a primary key to be defined
+
+# 2025-01-24 15:59:09.536069
++add MapRazorPages() back
+
+# 2025-01-24 16:01:31.255588
++Unable to find the required services. Please add all the required services by calling 'IServiceCollection.AddRazorPages' inside the call to 'ConfigureServices(...)' in the application startup code.
+
+# 2025-01-24 16:02:59.582509
++the regisster link not working
+
+# 2025-01-24 16:05:48.015406
++<a class="nav-link text-dark" href="/?area=Identity&amp;page=%2FAccount%2FRegister">Register</a> not working
+
+# 2025-01-24 16:13:17.546435
++No webpage was found for the web address: http://localhost:5203/Account/Register
+
+# 2025-01-24 16:13:28.401016
++y
+
+# 2025-01-24 20:21:39.705533
++n
+
+# 2025-01-24 21:21:53.040691
++can you add scaffold item identity to the application?
+
+# 2025-01-24 21:23:13.102453
++y
+
+# 2025-01-24 21:23:13.111635
++/run dotnet restore
+
+# 2025-01-24 21:23:13.111635
++/run dotnet restore
+
+# 2025-01-24 21:23:14.617735
++/run dotnet aspnet-codegenerator identity -dc AINetCoreMVC.Data.ApplicationDbContext --force
+
+# 2025-01-24 21:23:14.618658
++/run dotnet aspnet-codegenerator identity -dc AINetCoreMVC.Data.ApplicationDbContext --force
+
+# 2025-01-24 21:24:42.238772
++n
+
+# 2025-01-24 21:24:49.000064
++Could not execute because the specified command or file was not found.
++Possible reasons for this include:
++  * You misspelled a built-in dotnet command.
++  * You intended to execute a .NET program, but dotnet-aspnet-codegenerator does not exist.
++  * You intended to run a global tool, but a dotnet-prefixed executable with this name could not be found 
++on the PATH.
+
+# 2025-01-24 21:25:22.050376
++y
+
+# 2025-01-24 21:25:22.066643
++/run dotnet tool install --global dotnet-aspnet-codegenerator
+
+# 2025-01-24 21:25:22.067571
++/run dotnet tool install --global dotnet-aspnet-codegenerator
+
+# 2025-01-24 21:25:48.896285
++y
+
+# 2025-01-24 21:25:51.977914
++/run dotnet aspnet-codegenerator identity -dc AINetCoreMVC.Data.ApplicationDbContext --force
+
+# 2025-01-24 21:25:51.978979
++/run dotnet aspnet-codegenerator identity -dc AINetCoreMVC.Data.ApplicationDbContext --force
+
+# 2025-01-24 21:37:54.592711
++Install the following packages to your project for scaffolding identity: Microsoft.AspNetCore.Identity.UI,Microsoft.EntityFrameworkCore.Tools
++   at Microsoft.VisualStudio.Web.CodeGeneration.ActionInvoker.<BuildCommandLine>b__6_0() 
++   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication.Execute(String[] args)
++   at Microsoft.VisualStudio.Web.CodeGeneration.ActionInvoker.Execute(String[] args)     
++   at Microsoft.VisualStudio.Web.CodeGeneration.CodeGenCommand.Execute(String[] args)    
+
+# 2025-01-24 21:39:12.701106
++/run dotnet restore
+
+# 2025-01-24 21:39:12.702122
++/run dotnet restore
+
+# 2025-01-24 21:39:26.336148
++n
+
+# 2025-01-24 22:52:19.369846
++Scheme already exists: Identity.Application
+
+# 2025-01-24 22:53:23.153352
++n
+
+# 2025-01-24 23:34:52.463690
++<li class="nav-item">
++        <a class="nav-link text-dark" asp-controller="Account" asp-action="Register">Register</a>
++    </li>
++    <li class="nav-item">
++        <a class="nav-link text-dark" asp-controller="Account" asp-action="Login">Login</a>
++    </li>
+
+# 2025-01-24 23:35:57.854693
++n
+
+# 2025-01-24 23:37:03.184552
++/add AINetCoreMVC\Views\Shared\_LoginPartial.cshtml
+
+# 2025-01-24 23:38:45.176880
++do we need identity asp area for login?

@@ -1,4 +1,4 @@
-.aider*
+.aider.tags.cache.v3/
 .env
 AINetCoreMVC/bin/
 AINetCoreMVC/obj/

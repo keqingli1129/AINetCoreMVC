@@ -266,3 +266,293 @@
 
 # 2025-01-24 23:38:45.176880
 +do we need identity asp area for login?
+
+# 2025-01-25 22:09:42.388626
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(6,19): warning CS8618: Non-nullable property 'CategoryName' must contain a non-null value when exiting constructor. Consider adding the 'required'
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(7,19): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(8,19): warning CS8618: Non-nullable property 'Picture' must contain a non-null value when exiting constructor. Consider adding the 'required' modi 
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(7,19): warning CS8618: Non-nullable property 'ContactName' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(8,19): warning CS8618: Non-nullable property 'ContactTitle' must contain a non-null value when exiting constructor. Consider adding the 'required' 
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(9,19): warning CS8618: Non-nullable property 'Address' must contain a non-null value when exiting constructor. Consider adding the 'required' modi 
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(10,19): warning CS8618: Non-nullable property 'City' must contain a non-null value when exiting constructor. Consider adding the 'required' modifi 
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(11,19): warning CS8618: Non-nullable property 'Region' must contain a non-null value when exiting constructor. Consider adding the 'required' modi 
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(12,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(13,19): warning CS8618: Non-nullable property 'Country' must contain a non-null value when exiting constructor. Consider adding the 'required' mod 
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(14,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null value when exiting constructor. Consider adding the 'required' modif
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(15,19): warning CS8618: Non-nullable property 'Fax' must contain a non-null value when exiting constructor. Consider adding the 'required' modifie 
++r or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(16,19): warning CS8618: Non-nullable property 'HomePage' must contain a non-null value when exiting constructor. Consider adding the 'required' mo
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Shipper.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-null value when exiting constructor. Consider adding the 'required' m 
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Shipper.cs(7,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null value when exiting constructor. Consider adding the 'required' modifie 
++r or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Region.cs(6,19): warning CS8618: Non-nullable property 'RegionDescription' must contain a non-null value when exiting constructor. Consider adding the 'requir 
++ed' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Product.cs(6,19): warning CS8618: Non-nullable property 'ProductName' must contain a non-null value when exiting constructor. Consider adding the 'required' m 
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Product.cs(8,19): warning CS8618: Non-nullable property 'QuantityPerUnit' must contain a non-null value when exiting constructor. Consider adding the 'require 
++d' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(6,19): warning CS8618: Non-nullable property 'CustomerID' must contain a non-null value when exiting constructor. Consider adding the 'required' modi 
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(13,19): warning CS8618: Non-nullable property 'ShipName' must contain a non-null value when exiting constructor. Consider adding the 'required' modif 
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(14,19): warning CS8618: Non-nullable property 'ShipAddress' must contain a non-null value when exiting constructor. Consider adding the 'required' mo
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(15,19): warning CS8618: Non-nullable property 'ShipCity' must contain a non-null value when exiting constructor. Consider adding the 'required' modif 
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(16,19): warning CS8618: Non-nullable property 'ShipRegion' must contain a non-null value when exiting constructor. Consider adding the 'required' mod 
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(17,19): warning CS8618: Non-nullable property 'ShipPostalCode' must contain a non-null value when exiting constructor. Consider adding the 'required' 
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(18,19): warning CS8618: Non-nullable property 'ShipCountry' must contain a non-null value when exiting constructor. Consider adding the 'required' mo 
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(6,19): warning CS8618: Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider adding the 'required' mod 
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(7,19): warning CS8618: Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider adding the 'required' mo 
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(8,19): warning CS8618: Non-nullable property 'Title' must contain a non-null value when exiting constructor. Consider adding the 'required' modifi 
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(9,19): warning CS8618: Non-nullable property 'TitleOfCourtesy' must contain a non-null value when exiting constructor. Consider adding the 'requir 
++ed' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(12,19): warning CS8618: Non-nullable property 'Address' must contain a non-null value when exiting constructor. Consider adding the 'required' mod 
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(13,19): warning CS8618: Non-nullable property 'City' must contain a non-null value when exiting constructor. Consider adding the 'required' modifi 
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(14,19): warning CS8618: Non-nullable property 'Region' must contain a non-null value when exiting constructor. Consider adding the 'required' modi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(15,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(16,19): warning CS8618: Non-nullable property 'Country' must contain a non-null value when exiting constructor. Consider adding the 'required' mod 
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(17,19): warning CS8618: Non-nullable property 'HomePhone' must contain a non-null value when exiting constructor. Consider adding the 'required' m 
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(18,19): warning CS8618: Non-nullable property 'Extension' must contain a non-null value when exiting constructor. Consider adding the 'required' m 
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(19,19): warning CS8618: Non-nullable property 'Photo' must contain a non-null value when exiting constructor. Consider adding the 'required' modif 
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(20,19): warning CS8618: Non-nullable property 'Notes' must contain a non-null value when exiting constructor. Consider adding the 'required' modif 
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(22,19): warning CS8618: Non-nullable property 'PhotoPath' must contain a non-null value when exiting constructor. Consider adding the 'required' m 
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(5,19): warning CS8618: Non-nullable property 'CustomerID' must contain a non-null value when exiting constructor. Consider adding the 'required' m 
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(7,19): warning CS8618: Non-nullable property 'ContactName' must contain a non-null value when exiting constructor. Consider adding the 'required'  
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]                                      l value when exiting constructor. Consider adding the 'required' 
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(11,19): warning CS8618: Non-nullable property 'Region' must contain a non-null value when exiting constructor. Consider adding the 'required' modi                                                                       ue when exiting constructor. Consider adding the 'required' modi 
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(12,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-null when exiting constructor. Consider adding the 'required' modifi  value when exiting constructor. Consider adding the 'required'
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]                                ue when exiting constructor. Consider adding the 'required' modi 
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(13,19): warning CS8618: Non-nullable property 'Country' must contain a non-null value when exiting constructor. Consider adding the 'required' mod                                                                        value when exiting constructor. Consider adding the 'required'  
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(14,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null valulue when exiting constructor. Consider adding the 'required' mode when exiting constructor. Consider adding the 'required' modif
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]                                     e when exiting constructor. Consider adding the 'required' modif 
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(15,19): warning CS8618: Non-nullable property 'Fax' must contain a non-null value
+
+# 2025-01-25 22:10:38.832282
++n
+
+# 2025-01-25 22:11:30.169624
++can you make them nullable?
+
+# 2025-01-25 22:12:25.139174
++n
+
+# 2025-01-25 22:13:11.609246
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(6,19): warning CS8618: Non-nullable property 'CategoryName' must contain a non-null value when exiting constructor. Consider adding the '
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(7,19): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(8,19): warning CS8618: Non-nullable property 'Picture' must contain a non-null value when exiting constructor. Consider adding the 'requi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(7,19): warning CS8618: Non-nullable property 'ContactName' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(8,19): warning CS8618: Non-nullable property 'ContactTitle' must contain a non-null value when exiting constructor. Consider adding the '
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(9,19): warning CS8618: Non-nullable property 'Address' must contain a non-null value when exiting constructor. Consider adding the 'requi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(10,19): warning CS8618: Non-nullable property 'City' must contain a non-null value when exiting constructor. Consider adding the 'require
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(11,19): warning CS8618: Non-nullable property 'Region' must contain a non-null value when exiting constructor. Consider adding the 'requi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(12,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(13,19): warning CS8618: Non-nullable property 'Country' must contain a non-null value when exiting constructor. Consider adding the 'requ
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(14,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null value when exiting constructor. Consider adding the 'requir
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(15,19): warning CS8618: Non-nullable property 'Fax' must contain a non-null value when exiting constructor. Consider adding the 'required
++r or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(16,19): warning CS8618: Non-nullable property 'HomePage' must contain a non-null value when exiting constructor. Consider adding the 'req
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Shipper.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-null value when exiting constructor. Consider adding the 're
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Shipper.cs(7,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null value when exiting constructor. Consider adding the 'required
++r or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Region.cs(6,19): warning CS8618: Non-nullable property 'RegionDescription' must contain a non-null value when exiting constructor. Consider adding th
++ed' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Product.cs(6,19): warning CS8618: Non-nullable property 'ProductName' must contain a non-null value when exiting constructor. Consider adding the 're
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Product.cs(8,19): warning CS8618: Non-nullable property 'QuantityPerUnit' must contain a non-null value when exiting constructor. Consider adding the
++d' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(6,19): warning CS8618: Non-nullable property 'CustomerID' must contain a non-null value when exiting constructor. Consider adding the 'requi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(13,19): warning CS8618: Non-nullable property 'ShipName' must contain a non-null value when exiting constructor. Consider adding the 'requir
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(14,19): warning CS8618: Non-nullable property 'ShipAddress' must contain a non-null value when exiting constructor. Consider adding the 'req
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(15,19): warning CS8618: Non-nullable property 'ShipCity' must contain a non-null value when exiting constructor. Consider adding the 'requir
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(16,19): warning CS8618: Non-nullable property 'ShipRegion' must contain a non-null value when exiting constructor. Consider adding the 'requ
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(17,19): warning CS8618: Non-nullable property 'ShipPostalCode' must contain a non-null value when exiting constructor. Consider adding the '
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Order.cs(18,19): warning CS8618: Non-nullable property 'ShipCountry' must contain a non-null value when exiting constructor. Consider adding the 'req
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(6,19): warning CS8618: Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider adding the 'requ
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(7,19): warning CS8618: Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider adding the 'req
++difier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(8,19): warning CS8618: Non-nullable property 'Title' must contain a non-null value when exiting constructor. Consider adding the 'require
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(9,19): warning CS8618: Non-nullable property 'TitleOfCourtesy' must contain a non-null value when exiting constructor. Consider adding th
++ed' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(12,19): warning CS8618: Non-nullable property 'Address' must contain a non-null value when exiting constructor. Consider adding the 'requ
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(13,19): warning CS8618: Non-nullable property 'City' must contain a non-null value when exiting constructor. Consider adding the 'require
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(14,19): warning CS8618: Non-nullable property 'Region' must contain a non-null value when exiting constructor. Consider adding the 'requi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(15,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(16,19): warning CS8618: Non-nullable property 'Country' must contain a non-null value when exiting constructor. Consider adding the 'requ
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(17,19): warning CS8618: Non-nullable property 'HomePhone' must contain a non-null value when exiting constructor. Consider adding the 're
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(18,19): warning CS8618: Non-nullable property 'Extension' must contain a non-null value when exiting constructor. Consider adding the 're
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(19,19): warning CS8618: Non-nullable property 'Photo' must contain a non-null value when exiting constructor. Consider adding the 'requir
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(20,19): warning CS8618: Non-nullable property 'Notes' must contain a non-null value when exiting constructor. Consider adding the 'requir
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Employee.cs(22,19): warning CS8618: Non-nullable property 'PhotoPath' must contain a non-null value when exiting constructor. Consider adding the 're
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(5,19): warning CS8618: Non-nullable property 'CustomerID' must contain a non-null value when exiting constructor. Consider adding the 're
++odifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(7,19): warning CS8618: Non-nullable property 'ContactName' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++er or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(11,19): warning CS8618: Non-nullable property 'Region' must contain a non-null value when exiting constructor. Consider adding the 'requiue when exiting constructor. Consider adding the 'required' modi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(12,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-null value when exiting constructor. Consider adding the 'r value when exiting constructor. Consider adding the 'required'
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(13,19): warning CS8618: Non-nullable property 'Country' must contain a non-null value when exiting constructor. Consider adding the 'requlue when exiting constructor. Consider adding the 'required' mod
++ifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(14,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null value when exiting constructor. Consider adding the 'require when exiting constructor. Consider adding the 'required' modif
++ier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Customer.cs(15,19): warning CS8618: Non-nullable property 'Fax' must contain a non-null valuemake the fields nullable
+
+# 2025-01-25 22:13:57.010972
++n
+
+# 2025-01-25 22:14:29.105657
++only make the warning fields nullable
+
+# 2025-01-25 22:15:18.952587
++n
+
+# 2025-01-26 08:07:18.535880
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(6,19): warning CS8618: Non-nullable property 'CategoryName' must contain a non-null value when exiting constructor. Consider adding the '
++ modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(7,19): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider adding the 'r
++modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Category.cs(8,19): warning CS8618: Non-nullable property 'Picture' must contain a non-null value when exiting constructor. Consider adding the 'requi
++fier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetCoreMVC\AINetCoreMVC.csproj]
+
+# 2025-01-26 08:52:59.972798
++n
+
+# 2025-01-26 08:54:50.648886
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(6,19): warning CS8618: Non-nullable property 'CompanyName' must contain a non-nul
++l value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC
++\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(7,19): warning CS8618: Non-nullable property 'ContactName' must contain a non-nul
++l value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC
++\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(8,19): warning CS8618: Non-nullable property 'ContactTitle' must contain a non-nu
++ll value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMV
++C\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(9,19): warning CS8618: Non-nullable property 'Address' must contain a non-null va
++lue when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AIN
++etCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(10,19): warning CS8618: Non-nullable property 'City' must contain a non-null valu
++e when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINet
++CoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(11,19): warning CS8618: Non-nullable property 'Region' must contain a non-null va
++lue when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AIN
++etCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(12,19): warning CS8618: Non-nullable property 'PostalCode' must contain a non-nul 
++l value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC 
++\AINetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(13,19): warning CS8618: Non-nullable property 'Country' must contain a non-null v 
++alue when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AI 
++NetCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(14,19): warning CS8618: Non-nullable property 'Phone' must contain a non-null val 
++ue when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINe 
++tCoreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(15,19): warning CS8618: Non-nullable property 'Fax' must contain a non-null value 
++ when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\AINetC 
++oreMVC\AINetCoreMVC.csproj]
++C:\work\AINetCoreMVC\AINetCoreMVC\Models\Supplier.cs(16,19): warning CS8618: Non-nullable property 'HomePage' must contain a non-null  
++value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\work\AINetCoreMVC\A 
++INetCoreMVC\AINetCoreMVC.csproj]
+
+# 2025-01-26 09:12:32.519542
++/undo
+
+# 2025-01-26 09:13:12.150615
++set the fields ad nullable?
+
+# 2025-01-26 09:55:44.321732
++/undo
+
+# 2025-01-26 09:57:07.302558
++only set nullable for fields that have warning
+
+# 2025-01-26 09:57:45.457071
++/undo
+
+# 2025-01-26 10:06:06.923073
++can you do the same thing to shippers.cs, regions.cs, product.cs?
+
+# 2025-01-26 10:09:34.369560
++n
+
+# 2025-01-26 10:19:02.866962
++set fields with warning CS8618 to nullable in AINetCoreMVC\Models\Supplier.cs
+
+# 2025-01-26 10:21:10.538332
++set fields with warning CS8618 to nullable in AINetCoreMVC\Models\Product.cs
+
+# 2025-01-26 10:22:03.893653
++/undo
